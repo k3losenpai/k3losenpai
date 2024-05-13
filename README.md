@@ -5,8 +5,7 @@ from South Africa,
 18 years old and currently a full-time student.
 I have just started learning programming with Python on my free time not so long ago
 and since I enjoy it so much I've decided to stick with it
-so in this repository I will be uploading my little projects
-and they will be open for modification and anyone can correct me wherever I go wrong.😁
+so in this repository I will be uploading my little projects, anyone is free to help and correct me!😁
 
 How to contact k3lo?
 
